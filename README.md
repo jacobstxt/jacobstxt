@@ -1,6 +1,6 @@
 # Maksym Baran
 
-![Ваше фото](C:\Users\user\OneDrive\Desktop\Pictures/photo_2024-11-18_15-59-50.jpg)
+![Ваше фото](Peysash.jpg)
 
 ## About me
 
