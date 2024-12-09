@@ -1,6 +1,5 @@
 # Maksym Baran
 
-![Ваше фото]()
 
 ## About me
 
