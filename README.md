@@ -20,7 +20,7 @@
 
 Хочеш написати мені листа? 📨 Легко!  
 
-📧 [![E-Mail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
+📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
 
 
 
