@@ -1,6 +1,6 @@
 # Maksym Baran
 
-![Ваше фото](Peysash.jpg)
+![Ваше фото]()
 
 ## About me
 
