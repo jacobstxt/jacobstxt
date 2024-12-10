@@ -3,7 +3,7 @@
 
 ## About me ✨
 
-Привіт, мене звати  **Максим**! Я захоплююсь програмуванням і вже маю досвід у кількох мовах програмування.
+Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
 ### Skills:
 - **C++**.
