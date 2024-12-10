@@ -48,7 +48,6 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 
 
-![Follow Me](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 ## Сontact me 📬
 
 Хочеш написати мені листа? 📨 Легко!  
