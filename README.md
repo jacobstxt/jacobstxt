@@ -52,16 +52,14 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 ## Сontact me 📬
 
-Хочеш написати мені листа? 📨 Легко!  
+Do you want to write me a letter? 📨 Easy!  
 
 📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
 
 
+Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
 
-
-Або можеш скористатися **поштовим голубом** 🕊️ (тільки попередь його про координати 😄).
-
-> _Чекаю на ваші ідеї, запитання чи просто побажання гарного дня!_
+> _Wait for your ideas, questions or just wishes have a good day!_
 <br/>
 
 #
