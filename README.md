@@ -47,7 +47,6 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua)  
 
 
-
 ## Сontact me 📬
 
 Хочеш написати мені листа? 📨 Легко!  
@@ -62,5 +61,5 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 > _Чекаю на ваші ідеї, запитання чи просто побажання гарного дня!_
 <br/>
 
-#
+
 
