@@ -1,6 +1,10 @@
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+# Maksym Baran
+
+
+## About me ✨
+
+Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
+
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
