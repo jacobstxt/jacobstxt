@@ -21,6 +21,27 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 
+
+## Social networks 🌍📱
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/)  
+[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua)  
+
+
+
+## Сontact me 📬
+
+Хочеш написати мені листа? 📨 Легко!  
+
+📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
+
+
+
+
+Або можеш скористатися **поштовим голубом** 🕊️ (тільки попередь його про координати 😄).
+
+> _Чекаю на ваші ідеї, запитання чи просто побажання гарного дня!_
 <br/>
 
 #
