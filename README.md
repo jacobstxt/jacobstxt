@@ -4,10 +4,11 @@
 
 Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
-### Skills:
-- **C++**.
-- **C#**: Розробка на **.NET**,**ENTITY FRAMEWORK** (WPF, Windows Forms).
-- **Python**.
+### Teamwork Skills:
+- **Collaboration Skills**.
+- **Ability to Work in a Team**
+- **Team Collaboration Abilities**.
+
 
 ### Experience:
 - Розробка графічних інтерфейсів на **WPF** та **Windows Forms**.
