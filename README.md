@@ -32,30 +32,11 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-
-<style>
-  .social-icon {
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
-  .social-icon:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
-</style>
-
 ## Social networks 🌍📱
-<a href="https://t.me/UAJacobs" target="_blank">
-  <img class="social-icon" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/maksym-baran-0b5667332/" target="_blank">
-  <img class="social-icon" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/m_aks.brn/" target="_blank">
-  <img class="social-icon" src="https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://x.com/jACOBS_ua" target="_blank">
-  <img class="social-icon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/)  
+[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua)  
 
 
 
