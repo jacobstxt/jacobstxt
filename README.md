@@ -4,7 +4,7 @@
 
 Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
-### Teamwork Skills:
+## Teamwork Skills:
 - **Friendly**.
 - **Able to listen**
 - **Have an experience as a team lead in one project**.
