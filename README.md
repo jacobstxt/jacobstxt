@@ -2,8 +2,7 @@
 
 ## About me ✨
 
-Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="40px" alt="Phone Interaction GIF" />.
+Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
