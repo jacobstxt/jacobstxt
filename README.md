@@ -59,7 +59,7 @@ Do you want to write me a letter? 📨 Easy!
 
 Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
 
-> _Wait for your ideas, questions or just wishes have a good day!_
+> _Wait for your ideas, questions or just wishes , have a **good day**!_
 <br/>
 
 #
