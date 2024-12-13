@@ -23,22 +23,14 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 <br/>
 
-## My Skills 👨‍💻
 
-### Programming 🖥️:
-[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+### Desktop Development  🖥️:
 [![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Intermediate-green?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
-
-### Data Base 💾:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Database connection 🔗:
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-
 
 
 ## Social networks 🌍📱
