@@ -4,6 +4,17 @@
 
 Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
+### Skills:
+- **C++**.
+- **C#**: Розробка на **.NET**,**ENTITY FRAMEWORK** (WPF, Windows Forms).
+- **Python**.
+
+### Experience:
+- Розробка графічних інтерфейсів на **WPF** та **Windows Forms**.
+- Робота з базами даних за допомогою **Entity Framework** та **.NET**.
+- Був тімлідом в розробці  гри FlappyBird.
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
