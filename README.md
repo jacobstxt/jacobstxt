@@ -5,15 +5,9 @@
 Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
 ### Teamwork Skills:
-- **Collaboration Skills**.
-- **Ability to Work in a Team**
-- **Team Collaboration Abilities**.
-
-
-### Experience:
-- Розробка графічних інтерфейсів на **WPF** та **Windows Forms**.
-- Робота з базами даних за допомогою **Entity Framework** та **.NET**.
-- Був тімлідом в розробці  гри FlappyBird.
+- **Friendly**.
+- **Able to listen**
+- **Have an experience as a team lead in one project**.
 
 
 <p align="center">
