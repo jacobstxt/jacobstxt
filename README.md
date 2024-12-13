@@ -1,63 +1,15 @@
-# Maksym Baran
-
-
-## About me ✨
-
-Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
-
-### Skills:
-- **C++**.
-- **C#**: Розробка на **.NET**,**ENTITY FRAMEWORK** (WPF, Windows Forms).
-- **Python**.
-
-### Experience:
-- Розробка графічних інтерфейсів на **WPF** та **Windows Forms**.
-- Робота з базами даних за допомогою **Entity Framework** та **.NET**.
-- Був тімлідом в розробці  гри FlappyBird.
-
-### My goal:  ✨ 
-- Стати кращим розробником, створюючи інноваційні рішення для бізнесу,розваг та інших сфер життя.
-
-
----
-
-## My Skills 👨‍💻
-
-### Programming 🖥️:
-[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
-[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Intermediate-green?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
-
-### Data Base 💾:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### Database connection 🔗:
-[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
-[![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-
-
----
-
-## Social networks 🌍📱
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/)  
-[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua)  
-
-
-
-## Сontact me 📬
-
-Хочеш написати мені листа? 📨 Легко!  
-
-📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
-
-
-
-
-Або можеш скористатися **поштовим голубом** 🕊️ (тільки попередь його про координати 😄).
-
-> _Чекаю на ваші ідеї, запитання чи просто побажання гарного дня!_
-
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
