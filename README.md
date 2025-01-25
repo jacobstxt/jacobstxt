@@ -1,4 +1,4 @@
-v# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
 ## About Me ✨
 Hey, I'm **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
