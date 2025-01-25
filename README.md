@@ -1,74 +1,67 @@
-# 🌟 Maksym Baran
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
-Hello! I'm **Maksym**, a passionate programmer and tech enthusiast with experience in multiple programming languages. I enjoy tackling challenges and constantly learning new technologies.
+## About me ✨
 
----
+Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
-## 📚 About Me
+## Teamwork Skills:
+- **Friendly**.
+- **Able to listen**
+- **Have an experience as a team lead in one project**.
 
-- **Programming Passion**: I love to explore new programming languages and frameworks. 
-- **Teamwork**: Friendly, open-minded, and a good listener. I have experience leading a team in a project.
-- **Tech Enthusiast**: Constantly growing my skills and diving into new areas like AI, machine learning, and desktop development.
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/jacobstxt?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jacobstxt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-## 👥 Teamwork Skills
 
-- **Leadership**: Led a team on a successful project, honing leadership and communication skills.
-- **Collaboration**: Excellent at collaborating with teammates, respecting diverse viewpoints and ideas.
-- **Adaptability**: Able to adjust to various roles within a project, from developer to team lead.
+## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools
 
----
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 
-## ⚙️ Languages and Tools
 
-### Programming Languages
+<br/>
 
-- **Python** ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-- **C++** ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
-- **C#** ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-- **SQL** ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)
 
-### Development Tools
+## Desktop Development  🖥️:
+[![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
+[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Intermediate-green?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
 
-- **Visual Studio** ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)
-- **Git** ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+## ORM and Frameworks  🔗:
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
+[![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
----
 
-## 🖥️ Desktop Development
+## Social networks 🌍📱
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
+[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua) 
 
-- [**WPF**](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) (Intermediate)
-- [**Windows Forms**](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) (Intermediate)
 
----
 
-## 🔗 ORM and Frameworks
 
-- [**Entity Framework**](https://learn.microsoft.com/en-us/ef/) (Intermediate)
-- [**.NET**](https://dotnet.microsoft.com/) (Intermediate)
 
----
 
-## 🌐 Social Media & Networking
+## Сontact me 📬
 
-Let's connect! Reach out to me on:
+Do you want to write me a letter? 📨 Easy!  
 
-- **Telegram**: [@UAJacobs](https://t.me/UAJacobs) 📱
-- **LinkedIn**: [Maksym Baran](https://www.linkedin.com/in/maksym-baran-0b5667332/) 💼
-- **Instagram**: [@m_aks.brn](https://www.instagram.com/m_aks.brn/) 📸
-- **Twitter**: [@jACOBS_ua](https://x.com/jACOBS_ua) 🐦
+📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
 
----
 
-## 📬 Contact Me
+Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
 
-Got a question or just want to chat? Feel free to reach out!
+> _Wait for your ideas, questions or just wishes , have a **good day**!_
+<br/>
 
-- **Email**: [mmaksym.baran@gmail.com](mailto:mmaksym.baran@gmail.com) 📧
+#
 
-Or, if you're feeling adventurous, you can always try sending a **carrier pigeon** 🕊️. Just make sure to tell it your coordinates 😄.
 
----
-
-> _Looking forward to hearing from you, whether it's ideas, questions, or just friendly wishes! Have a great day!_
