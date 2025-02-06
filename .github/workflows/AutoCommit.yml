@@ -1,0 +1,26 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 14 * * *' # Київський час (зима)
+    
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout репозиторію
+        uses: actions/checkout@v4
+
+      - name: Зміна файлу (оновлення дати)
+        run: echo "$(date)" > activity.txt
+
+      - name: Налаштування Git
+        run: |
+          git config --global user.name "jacobstxt"
+          git config --global user.email "max.1982.baran@gmail.com"
+
+      - name: Коміт змін
+        run: |
+          git add .
+          git commit -m "Автоматичний коміт $(date)" || exit 0
+          git push https://github.com/${{ github.repository }}.git HEAD:main
