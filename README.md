@@ -9,7 +9,7 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 - 🌟 **Collaborative**: Always eager to contribute and support team goals.
 - 🧠 **Active Listener**: I pay close attention to others' perspectives, ensuring smooth communication.
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
-- 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
+
 
 
 <p align="center">
