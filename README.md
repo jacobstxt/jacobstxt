@@ -52,11 +52,11 @@
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
 ### 🌟 **GitHub Stats**
-<div style="display: flex; justify-content: space-between;">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
-  <div style="width: 30px;"></div> <!-- Це додасть відстань -->
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
 </div>
+
 
 
 ## Social networks 🌍📱
