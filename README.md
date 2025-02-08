@@ -61,8 +61,9 @@
 
 ---
 
-### 📈 **Contribution Graph**  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jacobstxt&theme=github)
+### 📈 **Contribution Graphick**  
+![GitHub Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/Example-Activity-Graph.gif)
+
 
 ## Social networks 🌍📱
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
