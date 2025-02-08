@@ -51,6 +51,16 @@
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
+### 🌟 **GitHub Stats**  
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+### 🏆 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical)
+
+---
+
 ## Social networks 🌍📱
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
@@ -68,19 +78,8 @@ Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the
 
 ---
 
-### 🌟 **GitHub Stats**  
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
----
 
-### 🏆 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical)
 
----
-
-### 📈 **Contribution Graph**  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jacobstxt&theme=react-dark)
-
----
 
 Це комбіноване резюме з твоїми навичками, інструментами, контактами і додатковими статистиками. Ти можеш додавати або змінювати будь-які елементи, якщо потрібно!
