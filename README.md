@@ -50,6 +50,7 @@
 ## ORM and Frameworks 🔗:
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+---
 
 ### 🌟 **GitHub Stats**
 <div style="display: flex; justify-content: space-between;">
