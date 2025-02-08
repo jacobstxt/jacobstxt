@@ -14,9 +14,10 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+     </a>
    <a href="https://github.com/jacobstxt?tab=followers">
-    <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/ТВІЙ_НІКНЕЙМ?style=for-the-badge"/>
+    <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?style=for-the-badge"/>
   </a>
 </p>
 
