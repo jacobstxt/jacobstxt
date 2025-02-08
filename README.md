@@ -51,14 +51,11 @@
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-### 🌟 **GitHub Stats**  
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
-
-### 🏆 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical)
-
+### 🌟 **GitHub Stats** & 🏆 **Top Languages**
+<div style="display: flex; justify-content: space-between;">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
+</div>
 
 
 ## Social networks 🌍📱
