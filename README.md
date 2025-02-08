@@ -25,7 +25,7 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
   
   <!-- Кількість репозиторіїв -->
 <a href="https://github.com/jacobstxt?tab=repositories">
-  <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-10-green?style=for-the-badge&logo=github"/>
+  <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-9-green?style=for-the-badge&logo=github"/>
 </a>
 
   
@@ -34,10 +34,6 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
     <img alt="Last commit" title="Last commit" src="https://img.shields.io/github/last-commit/jacobstxt/jacobstxt?color=FF5733&style=for-the-badge&label=Last%20Commit&logo=git"/>
   </a>
   
-  <!-- Мова програмування -->
-  <a href="https://github.com/jacobstxt">
-    <img alt="Top Language" title="Most used language" src="https://img.shields.io/github/languages/top/jacobstxt?color=purple&style=for-the-badge&label=Top%20Language&logo=code"/>
-  </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools
