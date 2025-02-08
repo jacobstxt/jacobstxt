@@ -54,7 +54,7 @@
 ### 🌟 **GitHub Stats**
 <div style="display: flex; justify-content: space-between;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
-  <div style="width: 20px;"></div> <!-- Це додасть відстань -->
+  <div style="width: 10px;"></div> <!-- Це додасть відстань -->
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
 </div>
 
