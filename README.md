@@ -51,23 +51,6 @@
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-## Social networks 🌍📱
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
-[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua) 
-
-## Contact me 📬
-Do you want to write me a letter? 📨 Easy!  
-
-📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
-
-Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
-
-> _Wait for your ideas, questions or just wishes, have a **good day**!_
-
----
-
 ### 🌟 **GitHub Stats**  
 ![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
@@ -81,6 +64,20 @@ Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the
 ### 📈 **Contribution Graph**  
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jacobstxt&theme=react-dark)
 
----
+## Social networks 🌍📱
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
+[![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jACOBS_ua) 
 
-Це комбіноване резюме з твоїми навичками, інструментами, контактами і додатковими статистиками. Ти можеш додавати або змінювати будь-які елементи, якщо потрібно!
+
+## Contact me 📬
+Do you want to write me a letter? 📨 Easy!  
+
+📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
+
+Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
+
+> _Wait for your ideas, questions or just wishes, have a **good day**!_
+
+
