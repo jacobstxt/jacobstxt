@@ -13,14 +13,31 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 
 
 <p align="center">
+  <!-- Загальна кількість зірок -->
   <a href="https://github.com/jacobstxt?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jacobstxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-     </a>
-   <a href="https://github.com/jacobstxt?tab=followers">
-    <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?style=for-the-badge"/>
+    <img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/jacobstxt?color=FFD700&style=for-the-badge&label=Total%20Stars&logo=github"/>
+  </a>
+  
+  <!-- Кількість підписників -->
+  <a href="https://github.com/jacobstxt?tab=followers">
+    <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?color=00CFFF&style=for-the-badge&label=Followers&logo=github"/>
+  </a>
+  
+  <!-- Кількість репозиторіїв -->
+  <a href="https://github.com/jacobstxt?tab=repositories">
+    <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/github/repo-count/jacobstxt?color=50C878&style=for-the-badge&label=Repositories&logo=github"/>
+  </a>
+  
+  <!-- Останній коміт -->
+  <a href="https://github.com/jacobstxt">
+    <img alt="Last commit" title="Last commit" src="https://img.shields.io/github/last-commit/jacobstxt/jacobstxt?color=FF5733&style=for-the-badge&label=Last%20Commit&logo=git"/>
+  </a>
+  
+  <!-- Мова програмування -->
+  <a href="https://github.com/jacobstxt">
+    <img alt="Top Language" title="Most used language" src="https://img.shields.io/github/languages/top/jacobstxt?color=purple&style=for-the-badge&label=Top%20Language&logo=code"/>
   </a>
 </p>
-
 
 ## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools
 
