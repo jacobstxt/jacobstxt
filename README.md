@@ -12,7 +12,7 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
 
 
-<p align="center">
+<p align="left">
   <!-- Загальна кількість зірок -->
   <a href="https://github.com/jacobstxt?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/jacobstxt?color=FFD700&style=for-the-badge&label=Total%20Stars&logo=github"/>
