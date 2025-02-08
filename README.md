@@ -24,9 +24,10 @@ Hey, I'm  **Maksym**! I am passionate about programming and already have experie
   </a>
   
   <!-- Кількість репозиторіїв -->
-  <a href="https://github.com/jacobstxt?tab=repositories">
-    <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/github/repo-count/jacobstxt?color=50C878&style=for-the-badge&label=Repositories&logo=github"/>
-  </a>
+<a href="https://github.com/jacobstxt?tab=repositories">
+  <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-10-green?style=for-the-badge&logo=github"/>
+</a>
+
   
   <!-- Останній коміт -->
   <a href="https://github.com/jacobstxt">
