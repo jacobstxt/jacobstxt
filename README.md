@@ -40,7 +40,6 @@
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="DBeaver" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-
 <br/>
 
 ## Desktop Development 🖥️:
@@ -50,7 +49,7 @@
 ## ORM and Frameworks 🔗:
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
----
+
 
 ### 🌟 **GitHub Stats**
 <div style="display: flex; justify-content: space-between;">
@@ -61,7 +60,6 @@
 ---
 
 ##Social networks 🌍📱
----
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
 [![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
