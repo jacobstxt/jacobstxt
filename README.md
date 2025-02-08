@@ -59,10 +59,6 @@
 ### 🏆 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical)
 
----
-
-### 📈 **Contribution Graphick**  
-![GitHub Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/Example-Activity-Graph.gif)
 
 
 ## Social networks 🌍📱
