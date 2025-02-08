@@ -2,7 +2,6 @@
 
 ## About me ✨
 
-Hey, I'm  **Maksym**! I am passionate about programming and already have experience working in several programming languages 📱.
 
 ## 🤝 Teamwork Skills
 
