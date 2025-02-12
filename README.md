@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
 ## 🤝 Teamwork Skills
-
 - 🌟 **Collaborative**: Always eager to contribute and support team goals.
 - 🧠 **Active Listener**: I pay close attention to others' perspectives, ensuring smooth communication.
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
