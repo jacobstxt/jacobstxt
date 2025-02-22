@@ -2,7 +2,7 @@
 
 ## 🤝 Teamwork Skills
 - 🌟 **Collaboration**: always looking to contribute and support team goals and members.
-- 🧠 **Active Listener**: I pay close attention to others' perspectives, ensuring smooth communication.
+- 🧠 **Active Listener**: I pay special attention to the point of view of others, ensuring comfortable communication.
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
 
