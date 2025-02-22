@@ -59,9 +59,9 @@
 
 
 ## 🌟 **GitHub Stats**
-<div style="display: flex; justify-content: space-between; gap: 0px;">
+<div style="display: flex; justify-content: space-between; gap: 60px;">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
-  <img height="130" Width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
+  <img height="130" Width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
 </div>
 
 
