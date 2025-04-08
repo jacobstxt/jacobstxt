@@ -19,7 +19,7 @@
   
   <!-- Кількість репозиторіїв -->
   <a href="https://github.com/jacobstxt?tab=repositories">
-    <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-16-green?style=for-the-badge&logo=github"/>
+    <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-17-green?style=for-the-badge&logo=github"/>
   </a>
 
   <!-- Останній коміт -->
