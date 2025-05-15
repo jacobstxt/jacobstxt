@@ -17,11 +17,6 @@
     <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?color=00CFFF&style=for-the-badge&label=Followers&logo=github"/>
   </a>
   
-  <!-- Кількість репозиторіїв -->
-  <a href="https://github.com/jacobstxt?tab=repositories">
-    <img alt="Total repositories" title="Total repositories" src="https://img.shields.io/badge/Repositories-17-green?style=for-the-badge&logo=github"/>
-  </a>
-
   <!-- Останній коміт -->
   <a href="https://github.com/jacobstxt">
     <img alt="Last commit" title="Last commit" src="https://img.shields.io/github/last-commit/jacobstxt/jacobstxt?color=FF5733&style=for-the-badge&label=Last%20Commit&logo=git"/>
