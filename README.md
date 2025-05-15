@@ -17,10 +17,6 @@
     <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?color=00CFFF&style=for-the-badge&label=Followers&logo=github"/>
   </a>
   
-  <!-- Останній коміт -->
-  <a href="https://github.com/jacobstxt">
-    <img alt="Last commit" title="Last commit" src="https://img.shields.io/github/last-commit/jacobstxt/jacobstxt?color=FF5733&style=for-the-badge&label=Last%20Commit&logo=git"/>
-  </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools
