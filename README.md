@@ -6,18 +6,6 @@
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
 
-<p align="left">
-  <!-- Загальна кількість зірок -->
-  <a href="https://github.com/jacobstxt?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/jacobstxt?color=FFD700&style=for-the-badge&label=Total%20Stars&logo=github"/>
-  </a>
-  
-  <!-- Кількість підписників -->
-  <a href="https://github.com/jacobstxt?tab=followers">
-    <img alt="GitHub followers" title="Followers on GitHub" src="https://img.shields.io/github/followers/jacobstxt?color=00CFFF&style=for-the-badge&label=Followers&logo=github"/>
-  </a>
-  
-</p>
 
 ## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools
 
