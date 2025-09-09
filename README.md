@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
-## 🤝 Teamwork Skills
-- 🌟 **Collaboration**: always looking to contribute and support team goals and members.
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb294d3J6YmZ5OWx5cDh2Mndnc3R4ZnIzcDV2N3A4Ym55em5ybWoweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40px"/> Teamwork Skills
+- 🌟 **Collaboration**: always looking to contribute and support team goals and members.400
 - 🧠 **Active Listener**: I pay special attention to the point of view of others, ensuring comfortable communication.
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
