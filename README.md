@@ -29,7 +29,6 @@
 <br/>
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
-
   <!-- Левая колонка: Frameworks -->
   <div style="flex: 1; min-width: 200px;">
     <h2>🛠️ Frameworks</h2>
@@ -48,7 +47,6 @@
       <img alt="Notion" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
     </div>
   </div>
-
 </div>
 
 
