@@ -37,7 +37,7 @@
 
 <br/>
 
-## 🖥️ Desktop Development
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThodmJmdDk0czQyNzRlNDlsZ2RvdzRwYWo0bWEyano4OHFyYWNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" /> Desktop Development
 [![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Intermediate-green?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
 
