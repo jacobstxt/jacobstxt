@@ -28,26 +28,12 @@
       
 <br/>
 
-<div style="display: flex; gap: 50px; flex-wrap: wrap;">
-  <!-- Левая колонка: Frameworks -->
-  <div style="flex: 1; min-width: 200px;">
-    <h2>🛠️ Frameworks</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
-      <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-      <img alt="TailwindCSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-      <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-    </div>
-  </div>
+| 🛠️ Frameworks | ⚙️ Tools & Productivity |
+|----------------|------------------------|
+| <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | <img alt="Canva" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> |
+| <img alt="TailwindCSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> | <img alt="Notion" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/> |
+| <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/> | |
 
-  <!-- Права колонка: Tools & Productivity -->
-  <div style="flex: 1; min-width: 200px;">
-    <h2>⚙️ Tools & Productivity</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
-      <img alt="Canva" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-      <img alt="Notion" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
-    </div>
-  </div>
-</div>
 
 
 ## 🖥️ Desktop Development
