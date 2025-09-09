@@ -19,8 +19,6 @@
 <img  alt="SQLite" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> 
 <img  alt="PostgreSQL" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 <img  alt="DBeaver" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" /> 
-<img  alt="Notion" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> 
-<img  alt="Canva" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
 <img  alt="Nuget" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" /> 
 <img  alt="Html" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
 <img  alt="JavaScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
@@ -35,6 +33,14 @@
 <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img alt="TailwindCSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+</div>       
+
+<br/>
+
+## ⚙️ Tools & Productivity
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
+<img  alt="Canva" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
+<img  alt="Notion" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> 
 </div>       
 
 <br/>
