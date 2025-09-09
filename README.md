@@ -31,8 +31,8 @@
 
 | 🛠️ Frameworks | | 🛠️ Frameworks | ⚙️ Tools & Productivity |
 |:-------------:|:-------------:|:-----------------------:|
-| <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | 
-  <img alt="AntDesign" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" /> <img alt="Canva" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> |
+| <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | <img alt="AntDesign" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" /> | 
+<img alt="Canva" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> |
 | <img alt="TailwindCSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> | <img alt="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/> |
 | <img alt="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/> | |
 
