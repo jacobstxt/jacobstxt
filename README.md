@@ -35,6 +35,7 @@
 | <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/> | |
 
 
+<br/>
 
 ## 🖥️ Desktop Development
 [![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
