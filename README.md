@@ -25,18 +25,19 @@
 <img  alt="Html" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
 <img  alt="JavaScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img  alt="GitHub" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
-<img  alt="TaiWindCss" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
-<img  alt="Bootstrap" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img  alt="Bootstrap" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>          
       
 <br/>
 
 ## 🛠️ Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
 <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img alt="TailwindCSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+</div>       
 
+<br/>
 
 ## Desktop Development 🖥️:
 [![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
