@@ -54,7 +54,7 @@
 </div>
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE3MjZ0Zmk5Ym1iNm5peXl1Z2U5Mm5hazUxNWR4Z21zNnc4enRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SKFsUhe9jUwrRtNPlq/giphy.gif" width="50px" /> Social networks
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlnYTB6Z2xoam82dHFhamkxdzF6NW5xcDZobG01amx3b2k3cDJ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N9NLnddsINmD8EF5eK/giphy.gif" width="50px" /> Social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
 [![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
