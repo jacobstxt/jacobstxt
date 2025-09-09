@@ -47,14 +47,14 @@
 
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV3ZWUwNW10MTZ0eHB0amJ2NGVwdnhobGlnZzBvcXNob2l1MHBpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mSq2Y8nouLVhQY720g/giphy.gif" width="50px" />**GitHub Stats**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV3ZWUwNW10MTZ0eHB0amJ2NGVwdnhobGlnZzBvcXNob2l1MHBpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mSq2Y8nouLVhQY720g/giphy.gif" width="50px" /> GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
   <img height="130" Width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
 </div>
 
 
-## Social networks 🌍📱
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE3MjZ0Zmk5Ym1iNm5peXl1Z2U5Mm5hazUxNWR4Z21zNnc4enRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SKFsUhe9jUwrRtNPlq/giphy.gif" width="50px" /> Social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksym-baran-0b5667332/) 
 [![Instagram](https://img.shields.io/badge/Instagram-2E5D91?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_aks.brn/) 
