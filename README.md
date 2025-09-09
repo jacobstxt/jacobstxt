@@ -7,7 +7,7 @@
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
 
 
-## <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3YXJqOTdvZnhqOHcxNHgxZ2d1b293aTE5bGZuOW9xOTJoOTJ6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools 
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
 <img  alt="Python" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
