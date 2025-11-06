@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb294d3J6YmZ5OWx5cDh2Mndnc3R4ZnIzcDV2N3A4Ym55em5ybWoweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40px"/> Teamwork Skills
+## 💬 Teamwork Skills
 - 🌟 **Collaboration**: always looking to contribute and support team goals and members.400
 - 🧠 **Active Listener**: I pay special attention to the point of view of others, ensuring comfortable communication.
 - 🏅 **Experienced Team Leader**: Led a successful project, managing diverse roles and fostering a positive environment for growth.
@@ -25,7 +25,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ## 🗄️ Databases
@@ -33,7 +33,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 
 ## ⚙️ Tools
@@ -45,7 +44,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white)
-
 
 
 ## 📊 GitHub Stats
