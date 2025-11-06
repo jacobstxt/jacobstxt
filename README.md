@@ -7,43 +7,29 @@
 - 🤗 **Empathetic & Supportive**: Always ready to offer help and encourage teammates through challenges.
 
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3YXJqOTdvZnhqOHcxNHgxZ2d1b293aTE5bGZuOW9xOTJoOTJ6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="40px" alt="Tools GIF" /> Languages and Tools 
+## 👨‍💻 Programming and Markup Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
-<img  alt="Python" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
-<img  alt="C++" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
-<img  alt="C#" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
-<img  alt="Visual Studio" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/> 
-<img  alt="Bootstrap" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
-<img  alt="SQL" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
-<img  alt="SQLite" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> 
-<img  alt="PostgreSQL" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
-<img  alt="DBeaver" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" /> 
-<img  alt="Nuget" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" /> 
-<img  alt="Html" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img  alt="Css" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img  alt="JavaScript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
-<img  alt="Git" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-</div>          
-      
-<br/>
+## 🧠 Frameworks and Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-| 🛠️ Frameworks | ⚙️ Tools & Productivity |
-|:-------------:|:-----------------------:|
-| <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img alt="AntDesign" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"/> | <img alt="Canva" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> |
-| <img alt="TailwindCSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img alt="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/> | <img alt="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/> |
+## 🗄️ Databases and Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-
-<br/>
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThodmJmdDk0czQyNzRlNDlsZ2RvdzRwYWo0bWEyano4OHFyYWNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" /> Desktop Development
-[![WPF](https://img.shields.io/badge/WPF-Intermediate-blue?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
-[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Intermediate-green?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThodmJmdDk0czQyNzRlNDlsZ2RvdzRwYWo0bWEyano4OHFyYWNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" /> ORM and Frameworks 
-[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Intermediate-orange?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
-[![.NET](https://img.shields.io/badge/.NET-Intermediate-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV3ZWUwNW10MTZ0eHB0amJ2NGVwdnhobGlnZzBvcXNob2l1MHBpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mSq2Y8nouLVhQY720g/giphy.gif" width="50px" /> GitHub Stats
