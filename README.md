@@ -46,12 +46,6 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white)
 
 
-## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=jacobstxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
-  <img height="130" Width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobstxt&layout=compact&theme=radical" />
-</div>
-
 
 ## 🌐 Social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/UAJacobs) 
