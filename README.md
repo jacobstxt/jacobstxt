@@ -65,7 +65,7 @@
 ## Contact me 📬
 Do you want to write me a letter? 📨 Easy!  
 
-📧 [![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-mmaksym.baran%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaksym.baran@gmail.com)
 
 Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the coordinates 😄).
 
