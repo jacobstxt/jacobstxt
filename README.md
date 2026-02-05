@@ -45,6 +45,9 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![WSL](https://img.shields.io/badge/WSL-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-1F6FEB?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
 
