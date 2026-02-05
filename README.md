@@ -50,8 +50,8 @@
 
 ## 👨‍💼 Productivity & Management
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello?style=for-the-badge&logo=trello&logoColor=blue)
-![Clockify](https://img.shields.io/badge/Clockify?style=for-the-badge&logo=clockify&logoColor=blue)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Clockify](https://img.shields.io/badge/Clockify-0098FF?style=for-the-badge&logo=clockify&logoColor=white)
 
 
 
