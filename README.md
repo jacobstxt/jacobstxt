@@ -77,4 +77,6 @@ Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the
 
 ---
 
+[![Maksym Baran profile views](https://u8views.com/api/v1/github/profiles/153942144/views/day-week-month-total-count.svg)](https://u8views.com/github/jacobstxt)
+
 
