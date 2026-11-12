@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/mmaks_brn"><img height="34" src="https://img.shields.io/badge/Telegram-%40mmaks_brn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/maksym-baran-0b5667332/"><img height="34" src="https://img.shields.io/badge/LinkedIn-Maksym_Baran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/m_aks.brn/"><img height="34" src="https://img.shields.io/badge/Instagram-%40m__aks.brn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/mmaks_brn/"><img height="34" src="https://img.shields.io/badge/Instagram-%40mmaks_brn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
 </p>
 
 ## 💬 Teamwork Skills
