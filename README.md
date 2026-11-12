@@ -1,5 +1,17 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
+<p align="center">
+  <a href="https://t.me/UAJacobs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=2CA5E0&center=true&vCenter=true&width=420&lines=Let%27s+connect!+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A8" alt="Let's connect" /></a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/UAJacobs"><img height="34" src="https://img.shields.io/badge/Telegram-%40UAJacobs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/maksym-baran-0b5667332/"><img height="34" src="https://img.shields.io/badge/LinkedIn-Maksym_Baran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/m_aks.brn/"><img height="34" src="https://img.shields.io/badge/Instagram-%40m__aks.brn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
+  <a href="https://x.com/jACOBS_ua"><img height="34" src="https://img.shields.io/badge/X-%40jACOBS__ua-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" /></a>
+  <a href="https://www.pinterest.com/ithyshnyk"><img height="34" src="https://img.shields.io/badge/Pinterest-%40ithyshnyk-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" alt="Pinterest" /></a>
+</p>
+
 ## 💬 Teamwork Skills
 - 🌟 **Collaboration**: always looking to contribute and support team goals and members.
 - 🧠 **Active Listener**: I pay special attention to the point of view of others, ensuring comfortable communication.
@@ -59,17 +71,6 @@
 
 
 
-## 🌐 Social networks
-<p align="center">
-  <a href="https://t.me/UAJacobs"><img src="https://img.shields.io/badge/Telegram-%40UAJacobs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/maksym-baran-0b5667332/"><img src="https://img.shields.io/badge/LinkedIn-Maksym_Baran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" /></a>
-</p>
-<p align="center">
-  <a href="https://www.instagram.com/m_aks.brn/"><img src="https://img.shields.io/badge/Instagram-%40m__aks.brn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" alt="Instagram" /></a>
-  <a href="https://x.com/jACOBS_ua"><img src="https://img.shields.io/badge/X-%40jACOBS__ua-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" /></a>
-  <a href="https://www.pinterest.com/ithyshnyk"><img src="https://img.shields.io/badge/Pinterest-%40ithyshnyk-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=1a1a1a" alt="Pinterest" /></a>
-</p>
-
 ## Contact me 📬
 Do you want to write me a letter? 📨 Easy!  
 
@@ -82,5 +83,3 @@ Or you can use **a carrier pigeon** 🕊️ (just make sure to warn it about the
 ---
 
 [![Maksym Baran profile views](https://u8views.com/api/v1/github/profiles/153942144/views/day-week-month-total-count.svg)](https://u8views.com/github/jacobstxt)
-
-
