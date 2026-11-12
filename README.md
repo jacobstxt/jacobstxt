@@ -1,4 +1,4 @@
-<img width="1560" height="1641" alt="image" src="https://github.com/user-attachments/assets/de97d9c9-b093-449b-b28b-11497fb00d48" /># <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
 <p align="center">
   <a href="https://t.me/mmaks_brn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=2CA5E0&center=true&vCenter=true&width=420&lines=Let%27s+connect!+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A8" alt="Let's connect" /></a>
