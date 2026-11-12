@@ -1,15 +1,13 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
+<img width="1560" height="1641" alt="image" src="https://github.com/user-attachments/assets/de97d9c9-b093-449b-b28b-11497fb00d48" /># <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF" /> Maksym Baran
 
 <p align="center">
-  <a href="https://t.me/UAJacobs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=2CA5E0&center=true&vCenter=true&width=420&lines=Let%27s+connect!+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A8" alt="Let's connect" /></a>
+  <a href="https://t.me/mmaks_brn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=2CA5E0&center=true&vCenter=true&width=420&lines=Let%27s+connect!+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A8" alt="Let's connect" /></a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/UAJacobs"><img height="34" src="https://img.shields.io/badge/Telegram-%40UAJacobs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://t.me/mmaks_brn"><img height="34" src="https://img.shields.io/badge/Telegram-%40mmaks_brn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/maksym-baran-0b5667332/"><img height="34" src="https://img.shields.io/badge/LinkedIn-Maksym_Baran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/m_aks.brn/"><img height="34" src="https://img.shields.io/badge/Instagram-%40m__aks.brn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /></a>
-  <a href="https://x.com/jACOBS_ua"><img height="34" src="https://img.shields.io/badge/X-%40jACOBS__ua-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" /></a>
-  <a href="https://www.pinterest.com/ithyshnyk"><img height="34" src="https://img.shields.io/badge/Pinterest-%40ithyshnyk-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" alt="Pinterest" /></a>
 </p>
 
 ## 💬 Teamwork Skills
